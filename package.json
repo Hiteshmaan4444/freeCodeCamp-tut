@@ -6,6 +6,7 @@
 	"main": "server.js",
 	"author": "Hitesh Maan",
 	"description": "A project based on freeCodeCamp",
+	"keywords": [ "descriptive", "freecodecamp", "words" ],
 	"scripts": {
 		"start": "node server.js"
 	},
