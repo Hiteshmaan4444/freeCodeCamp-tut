@@ -5,6 +5,7 @@
 	},
 	"main": "server.js",
 	"author": "Hitesh Maan",
+	"description": "A project based on freeCodeCamp",
 	"scripts": {
 		"start": "node server.js"
 	},
